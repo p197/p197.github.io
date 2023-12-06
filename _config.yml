@@ -1,9 +1,9 @@
-title: Hacker-Blog
-description: "A Jekyll Blog Theme For Hackers"
+title: P-Blog
+description: "P的学习记录"
 author:
-  name: "SomeHacker"
-  email: "someone@somewebsite.somedomain"
-  url: "https://ashishchaudhary.in/hacker-blog"
+  name: "P"
+  email: "pchen1030@163.com"
+  url: "https://p197.github.io"
 
 baseurl: /
 
@@ -28,5 +28,5 @@ plugins:
   - jekyll-sitemap
 
 # Custom variables
-owner : "SomeHacker"
+owner : "P"
 year : "2020"
